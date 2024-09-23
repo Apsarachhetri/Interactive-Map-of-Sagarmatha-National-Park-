@@ -1,0 +1,1 @@
+var json_Parking_9 = {"type":"FeatureCollection","name":"Parking_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","full_id":"n5550023322","osm_id":"5550023322","osm_type":"node","tourism":"caravan_site","name:zh":"島峰基地營"},"geometry":{"type":"Point","coordinates":[86.9281069,27.9025637]}}]}
